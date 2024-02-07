@@ -1,3 +1,3 @@
 # ML-for-NLP
 
-This includes assignments and the project for Maching learning for Natural Language Processing.
+This includes relevant assignments and projects for Natural Language Processing related tasks.
